@@ -28,7 +28,7 @@ import (
 	"strings"
 	"time"
 
-	"pault.ag/go/debian/version"
+	"github.com/gandalfmagic/go-debian/version"
 )
 
 // A ChangelogEntry is the encapsulation for each entry for a given version
