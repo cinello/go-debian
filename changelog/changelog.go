@@ -43,7 +43,7 @@ type ChangelogEntry struct {
 	When      time.Time
 }
 
-const whenLayout = time.RFC1123Z // "Mon, 02 Jan 2006 15:04:05 -0700"
+const whenLayout = "Mon, _2 Jan 2006 15:04:05 -0700" // time.RFC1123Z
 
 type ChangelogEntries []ChangelogEntry
 
