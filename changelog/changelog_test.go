@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gandalfmagic/go-debian/changelog"
+	"gitlab.yuribugelli.it/debian/go-debian/changelog"
 )
 
 /*

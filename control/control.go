@@ -26,7 +26,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gandalfmagic/go-debian/dependency"
+	"gitlab.yuribugelli.it/debian/go-debian/dependency"
 )
 
 // Encapsulation for a debian/control file, which is a series of RFC2822-like

@@ -26,8 +26,9 @@ import (
 	"strings"
 	"testing"
 
+	"gitlab.yuribugelli.it/debian/go-debian/control"
+
 	"golang.org/x/crypto/openpgp"
-	"github.com/gandalfmagic/go-debian/control"
 )
 
 /*

@@ -25,7 +25,7 @@ import (
 	"runtime/debug"
 	"testing"
 
-	"github.com/gandalfmagic/go-debian/dependency"
+	"gitlab.yuribugelli.it/debian/go-debian/dependency"
 )
 
 /*

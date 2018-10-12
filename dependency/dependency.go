@@ -21,7 +21,7 @@
 package dependency
 
 import (
-	"github.com/gandalfmagic/go-debian/version"
+	"gitlab.yuribugelli.it/debian/go-debian/version"
 )
 
 //
