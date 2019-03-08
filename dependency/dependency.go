@@ -21,7 +21,7 @@
 package dependency
 
 import (
-	"gitlab.yuribugelli.it/debian/go-debian/version"
+	"github.com/cinello/go-debian/version"
 )
 
 //

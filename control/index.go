@@ -24,8 +24,8 @@ import (
 	"bufio"
 	"strings"
 
-	"gitlab.yuribugelli.it/debian/go-debian/dependency"
-	"gitlab.yuribugelli.it/debian/go-debian/version"
+	"github.com/cinello/go-debian/dependency"
+	"github.com/cinello/go-debian/version"
 )
 
 // The BinaryIndex struct represents the exported APT Binary package index

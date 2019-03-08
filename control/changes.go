@@ -29,9 +29,9 @@ import (
 	"strconv"
 	"strings"
 
-	"gitlab.yuribugelli.it/debian/go-debian/dependency"
-	"gitlab.yuribugelli.it/debian/go-debian/internal"
-	"gitlab.yuribugelli.it/debian/go-debian/version"
+	"github.com/cinello/go-debian/dependency"
+	"github.com/cinello/go-debian/internal"
+	"github.com/cinello/go-debian/version"
 )
 
 // {{{ .changes Files list entries

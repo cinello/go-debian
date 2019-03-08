@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"gitlab.yuribugelli.it/debian/go-debian/control"
-	"gitlab.yuribugelli.it/debian/go-debian/dependency"
-	"gitlab.yuribugelli.it/debian/go-debian/version"
+	"github.com/cinello/go-debian/control"
+	"github.com/cinello/go-debian/dependency"
+	"github.com/cinello/go-debian/version"
 )
 
 type TestMarshalStruct struct {

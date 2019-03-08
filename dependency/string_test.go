@@ -23,7 +23,7 @@ package dependency_test
 import (
 	"testing"
 
-	"gitlab.yuribugelli.it/debian/go-debian/dependency"
+	"github.com/cinello/go-debian/dependency"
 )
 
 func TestArchString(t *testing.T) {

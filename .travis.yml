@@ -1,5 +1,5 @@
 language: go
-go_import_path: gitlab.yuribugelli.it/debian/go-debian
+go_import_path: github.com/cinello/go-debian
 go:
   - 1.11.x
   - 1.10.x

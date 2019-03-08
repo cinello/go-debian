@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"gitlab.yuribugelli.it/debian/go-debian/control"
+	"github.com/cinello/go-debian/control"
 )
 
 /*

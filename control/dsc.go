@@ -28,9 +28,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gitlab.yuribugelli.it/debian/go-debian/dependency"
-	"gitlab.yuribugelli.it/debian/go-debian/internal"
-	"gitlab.yuribugelli.it/debian/go-debian/version"
+	"github.com/cinello/go-debian/dependency"
+	"github.com/cinello/go-debian/internal"
+	"github.com/cinello/go-debian/version"
 
 	"pault.ag/go/topsort"
 )

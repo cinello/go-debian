@@ -28,7 +28,7 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.yuribugelli.it/debian/go-debian/version"
+	"github.com/cinello/go-debian/version"
 )
 
 // A ChangelogEntry is the encapsulation for each entry for a given version

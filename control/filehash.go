@@ -33,7 +33,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gitlab.yuribugelli.it/debian/go-debian/hashio"
+	"github.com/cinello/go-debian/hashio"
 )
 
 // A FileHash is an entry as found in the Files, Checksum-Sha1, and
